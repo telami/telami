@@ -1,4 +1,4 @@
-<p align="center"><a href="https://octree.github.io"><img width="50%" src="./Assets/header.svg" /></a></p>
+<p align="center"><a href="https://octree.github.io">I 'm telami</a></p>
 
 <br />
 
@@ -34,7 +34,7 @@
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-| <a href="https://github.com/octree"><img align="center" src="https://github-readme-stats.vercel.app/api?username=telami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=telami%27s%20Github%20Stats" alt="telami's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telami&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
+| <a href="https://github.com/telami"><img align="center" src="https://github-readme-stats.vercel.app/api?username=telami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=telami%27s%20Github%20Stats" alt="telami's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telami&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br />
